@@ -1,2 +1,4 @@
 #this is a new file
-foo = 1;
+foo = 41;
+
+hey = 1;
