@@ -4,3 +4,5 @@ bar = 'this';
 
 hee = foo + bar;
 tay=2;
+hey = 10;
+he= 1;
