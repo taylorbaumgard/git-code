@@ -2,4 +2,4 @@
 foo = 1;
 bar = 'this';
 
-foo + bar;
+hee = foo + bar;
